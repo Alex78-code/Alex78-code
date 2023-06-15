@@ -10,11 +10,11 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=youtrack&logoColor=8cc4d7)
 ### Тестовая документация
-- [Checklists]()
-- [Test-Cases]()
-- [Bug-Reports]()
-- [SQL Queries]()
-- [Postman Queries]()
+- [Чек-листы]()
+- [Тест-кейсы]()
+- [Баг-репорты]()
+- [SQL Запросы]()
+- [Postman запросы]()
 - [Autotest](https://github.com/Alex78-code/Test-Shop-automation)
 ### Связаться со мной
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Aleks_Monakhov)
