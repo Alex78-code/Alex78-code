@@ -14,6 +14,7 @@
 - [Test-Cases]()
 - [Bug-Reports]()
 - [SQL Queries]()
+- [Postman Queries]()
 - [Autotest](https://github.com/Alex78-code/Test-Shop-automation)
 ### Связаться со мной
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Aleks_Monakhov)
