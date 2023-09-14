@@ -15,7 +15,7 @@
 - [Тест-кейсы]()
 - [Баг-репорты]()
 - [SQL Запросы]()
-- [Postman запросы]([https://github.com/Alex78-code/Alex78-code/tree/main](https://github.com/stars/Alex78-code/lists/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-postman))
+- [Postman запросы](https://github.com/stars/Alex78-code/lists/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-postman)
 - [Автоматизация](https://github.com/Alex78-code?tab=stars)
 ### Связаться со мной
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Aleks_Monakhov)
