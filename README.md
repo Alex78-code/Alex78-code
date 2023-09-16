@@ -16,6 +16,6 @@
 - [Баг-репорты]()
 - [SQL Запросы]()
 - [Postman запросы](https://github.com/stars/Alex78-code/lists/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-postman)
-- [Автоматизация](https://github.com/Alex78-code?tab=stars)
+- [Автоматизация](https://github.com/stars/Alex78-code/lists/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
 ### Связаться со мной
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Aleks_Monakhov)
